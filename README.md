@@ -1,13 +1,3 @@
-# 依赖
-
-npm install -g vue-cli
-
-# 关闭语法检测
-
-Vue-TodeList\congig\index.js
-
-module>useEslint:false
-
 # Vue-basic
 
 > A Vue.js project实现基础的vue项目配置
